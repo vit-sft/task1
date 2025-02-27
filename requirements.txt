@@ -1,0 +1,12 @@
+uvicorn
+fastapi
+pymysql
+sqlalchemy
+alembic
+pyjwt
+apscheduler
+passlib
+bcrypt
+jinja2
+cachetools
+mysqlclient
